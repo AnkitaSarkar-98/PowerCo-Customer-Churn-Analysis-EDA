@@ -112,6 +112,7 @@ churn-retention tool.
 
 # Project Structure
 
+
 ```Structure
 PowerCo-Customer-Churn-Analysis/
 │
@@ -127,6 +128,7 @@ PowerCo-Customer-Churn-Analysis/
 │   └── Executive_Summary.pdf
 │
 └── README.md
+
 
 # Conclusion
 
