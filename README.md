@@ -112,8 +112,7 @@ churn-retention tool.
 
 # Project Structure
 
-
-```Structure
+```text
 PowerCo-Customer-Churn-Analysis/
 │
 ├── data/
@@ -128,7 +127,7 @@ PowerCo-Customer-Churn-Analysis/
 │   └── Executive_Summary.pdf
 │
 └── README.md
-
+```
 
 # Conclusion
 
@@ -140,9 +139,11 @@ The results indicate that the current model has predictive signal but
 requires further improvement, particularly in identifying actual
 churners, before it can be confidently used for customer retention
 decisions.
+
 Thank you for taking the time to check out this project! Your interest,
 feedback, and contributions mean a lot. If you have any suggestions,
 feel free to share.
+
 Don't forget to ⭐ this repository if you found it helpful --- it really
 helps others find it too.
 Happy coding
