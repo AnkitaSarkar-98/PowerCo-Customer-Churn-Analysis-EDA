@@ -2,7 +2,7 @@
 
 
 
-![image alt]()
+![image alt](https://github.com/AnkitaSarkar-98/PowerCo-Customer-Churn-Analysis-EDA/blob/main/BCG-Certificate.png?raw=true)
 
 # Overview
 
