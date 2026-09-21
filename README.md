@@ -112,22 +112,20 @@ churn-retention tool.
 
 # Project Structure
 
+```Structure
 PowerCo-Customer-Churn-Analysis/
 │
 ├── data/
 │   └── Project datasets
 │
-
 ├── notebooks/
 │   ├── EDA.ipynb
 │   ├── Feature_Engineering.ipynb
 │   └── Modeling_and_Evaluation.ipynb
 │
-
 ├── presentation/
 │   └── Executive_Summary.pdf
 │
-
 └── README.md
 
 # Conclusion
